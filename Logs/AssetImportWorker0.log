@@ -1,0 +1,2108 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1052; Version 2009; 64bit' Language: 'ru' Physical Memory: 8077 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+G:\Unity\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Users/Nikita/Desktop/game/projects/MyLitleAdventure
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57722
+Successfully changed project path to: F:/Users/Nikita/Desktop/game/projects/MyLitleAdventure
+F:/Users/Nikita/Desktop/game/projects/MyLitleAdventure
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 265.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path G:/Unity/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Users/Nikita/Desktop/game/projects/MyLitleAdventure/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   
+    VRAM:     984 MB
+    Driver:   27.21.14.6627
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'G:/Unity/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'G:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'G:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56784
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/Unity/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010901 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 204.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.461 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015058 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 250.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.850 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 2.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4542 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.8 MB.
+System memory in use after: 231.0 MB.
+
+Unloading 199 unused Assets to reduce memory usage. Loaded Objects now: 5007.
+Total: 36.264300 ms (FindLiveObjects: 6.399700 ms CreateObjectMapping: 0.877700 ms MarkObjects: 28.214200 ms  DeleteObjects: 0.770200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/[1] HichDX/Scenes/TestScene.unity
+  artifactKey: Guid(b45f924a43535d442a1c35b0109448a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/Scenes/TestScene.unity using Guid(b45f924a43535d442a1c35b0109448a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3ca5126efcd5eeb6dc7acfde2f60ba') in 0.053630 seconds
+  Import took 0.147212 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.958 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.0 MB.
+System memory in use after: 213.2 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5010.
+Total: 5.363400 ms (FindLiveObjects: 0.715200 ms CreateObjectMapping: 0.518800 ms MarkObjects: 3.810900 ms  DeleteObjects: 0.316600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016461 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.192 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.1 MB.
+System memory in use after: 213.3 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5013.
+Total: 53.425100 ms (FindLiveObjects: 4.654300 ms CreateObjectMapping: 4.751400 ms MarkObjects: 42.621600 ms  DeleteObjects: 1.395400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2073.489921 seconds.
+  path: Assets/[1] HichDX/Scenes/CommonScenes/[MENU_SCENE].unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/Scenes/CommonScenes/[MENU_SCENE].unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee3d81ba65e70f300cd7e374c189a06') in 0.036372 seconds
+  Import took 0.093333 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.023971 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.633 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.1 MB.
+System memory in use after: 213.3 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5016.
+Total: 19.861100 ms (FindLiveObjects: 2.309600 ms CreateObjectMapping: 0.592900 ms MarkObjects: 16.437300 ms  DeleteObjects: 0.518600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015764 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.955 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.1 MB.
+System memory in use after: 213.4 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5019.
+Total: 31.355300 ms (FindLiveObjects: 1.602000 ms CreateObjectMapping: 1.468100 ms MarkObjects: 21.369400 ms  DeleteObjects: 6.912800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.089333 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.230 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 3.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.2 MB.
+System memory in use after: 213.4 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5022.
+Total: 8.878500 ms (FindLiveObjects: 0.764700 ms CreateObjectMapping: 0.531700 ms MarkObjects: 7.048100 ms  DeleteObjects: 0.531500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 938.892144 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd
+  artifactKey: Guid(1ab331a196bae1046b7a75ed7e3f6b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd using Guid(1ab331a196bae1046b7a75ed7e3f6b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05770660c4a3f8a312ed14d9d3ac17e2') in 1.061612 seconds
+  Import took 1.115190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorSword_silver.png
+  artifactKey: Guid(76dc86c4b0171f24586935d335d1a974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorSword_silver.png using Guid(76dc86c4b0171f24586935d335d1a974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b14bef64840288eeedce90f8e3bff82') in 0.229003 seconds
+  Import took 0.262279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBlue_left.png
+  artifactKey: Guid(546bd62904f52614dbb61748b243e7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBlue_left.png using Guid(546bd62904f52614dbb61748b243e7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37623e29b59dff97e7918fb92eac1400') in 0.081704 seconds
+  Import took 0.127785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001857 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_verticalMid.png
+  artifactKey: Guid(d5c6fa7c2bd502f48a388f4d3fc94cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_verticalMid.png using Guid(d5c6fa7c2bd502f48a388f4d3fc94cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28de209926f36cfb0e5cf1a225fb5229') in 0.095550 seconds
+  Import took 0.138235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowSilver_right.png
+  artifactKey: Guid(150fb7a458e01e44995728e144c48405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowSilver_right.png using Guid(150fb7a458e01e44995728e144c48405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79207cf6de6c92085d2fc486da56c8cf') in 0.052960 seconds
+  Import took 0.086202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBrown_left.png
+  artifactKey: Guid(a1ef7ce32fd63d743a1469c959eba6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBrown_left.png using Guid(a1ef7ce32fd63d743a1469c959eba6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dcd31bf19693630567a26db08f62617') in 0.050008 seconds
+  Import took 0.085788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/FireBall/blaster.png
+  artifactKey: Guid(48985de56704c894a87e63656c04aed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/FireBall/blaster.png using Guid(48985de56704c894a87e63656c04aed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1501941e6d8fb8f6403cf8b7f81b2105') in 0.151283 seconds
+  Import took 0.230748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_horizontalMid.png
+  artifactKey: Guid(0939cb5aa620b8b43ae0cf5f7aa93316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_horizontalMid.png using Guid(0939cb5aa620b8b43ae0cf5f7aa93316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9380d1a7f7e91d48d930c6b19922ca5') in 0.059556 seconds
+  Import took 0.098526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonRound_beige.png
+  artifactKey: Guid(23d3bd3216f40594d9aaa5a80e9d6436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonRound_beige.png using Guid(23d3bd3216f40594d9aaa5a80e9d6436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4423384e935be66204449aad846dd828') in 0.080868 seconds
+  Import took 0.116801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonLong_beige_pressed.png
+  artifactKey: Guid(872083def147da3459b4cad907b44293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonLong_beige_pressed.png using Guid(872083def147da3459b4cad907b44293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27c072b83d15462129009f9b139a051a') in 0.064870 seconds
+  Import took 0.103714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/Ulta/burning-skull.png
+  artifactKey: Guid(d2b149bf62ca610488e761a0595b8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/Ulta/burning-skull.png using Guid(d2b149bf62ca610488e761a0595b8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6db5405d2c5a6ed867a6095d194ed4') in 0.079379 seconds
+  Import took 0.117097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002757 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_beige.png
+  artifactKey: Guid(cbd4be64b418cad44a6f9e9befa282b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_beige.png using Guid(cbd4be64b418cad44a6f9e9befa282b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547bb30890e4157fe9a8dc96949538e5') in 0.088694 seconds
+  Import took 0.104333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_grey.png
+  artifactKey: Guid(dbfe94177bcd3a04fbad2e94e410ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_grey.png using Guid(dbfe94177bcd3a04fbad2e94e410ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1617a6d291d5e079a9445e6189ad00') in 0.057151 seconds
+  Import took 0.086424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_verticalTop.png
+  artifactKey: Guid(4679513161525194d984cf250cc0d5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_verticalTop.png using Guid(4679513161525194d984cf250cc0d5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b657bbe8326ab201715568eea4728de2') in 0.064679 seconds
+  Import took 0.113326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001587 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Close Button.png
+  artifactKey: Guid(11277a3f23988ec47908362d708edaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Close Button.png using Guid(11277a3f23988ec47908362d708edaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09776be2ce82047f0dbb10d1dfe8449') in 0.090603 seconds
+  Import took 0.133237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/[1] HichDX/VisualGraph/Portal/VFX/Circle01.png
+  artifactKey: Guid(06a7bb7fd1c58ae439d815c1874883d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/VisualGraph/Portal/VFX/Circle01.png using Guid(06a7bb7fd1c58ae439d815c1874883d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9588c9ab2a85aa18b25d4a9aa3aa96') in 0.136592 seconds
+  Import took 0.167705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorGauntlet_grey.png
+  artifactKey: Guid(f7539cd04c9cdef4facf3228eefb389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorGauntlet_grey.png using Guid(f7539cd04c9cdef4facf3228eefb389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b228782c55e26df71382cafb778ee99') in 0.038209 seconds
+  Import took 0.066107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000883 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorSword_gold.png
+  artifactKey: Guid(10144cd623c9306438468423468d27fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorSword_gold.png using Guid(10144cd623c9306438468423468d27fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e40f1ed761962adbcba10fcd104e2109') in 0.070396 seconds
+  Import took 0.107450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000560 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_horizontalMid.png
+  artifactKey: Guid(e8e736cf4a3474647ae32a665506eeb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_horizontalMid.png using Guid(e8e736cf4a3474647ae32a665506eeb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72073715145a7fb63f14d3fbbb5bd30e') in 0.065908 seconds
+  Import took 0.117553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png
+  artifactKey: Guid(5b56d9fa0e8bd6e409ed188db38a692c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png using Guid(5b56d9fa0e8bd6e409ed188db38a692c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94df72a31d457beb6d8ca95b96aed559') in 0.132250 seconds
+  Import took 0.172707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/dodging.png
+  artifactKey: Guid(ed005d5d7fa371c468b6eb0d3fa30119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/dodging.png using Guid(ed005d5d7fa371c468b6eb0d3fa30119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13b05a1cffaaeba2bb893ed7cb03472') in 0.131612 seconds
+  Import took 0.183993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonLong_grey.png
+  artifactKey: Guid(bb778224921b37c4cbcf858ec368c64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonLong_grey.png using Guid(bb778224921b37c4cbcf858ec368c64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aec212f5d63b6775cea2ad01cdba91d') in 0.067657 seconds
+  Import took 0.080487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorHand_blue.png
+  artifactKey: Guid(4af6049ad725f9841bcebcbedbf79a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorHand_blue.png using Guid(4af6049ad725f9841bcebcbedbf79a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2a784fc963e157adc28f68a838807a') in 0.059133 seconds
+  Import took 0.083868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/[1] HichDX/VisualGraph/Portal/VFX/Circle00.png
+  artifactKey: Guid(91292611b0392444ba125ba368a5ecd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/VisualGraph/Portal/VFX/Circle00.png using Guid(91292611b0392444ba125ba368a5ecd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8121c29999e97c8aa0f216ed32ca8399') in 0.052742 seconds
+  Import took 0.085933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_verticalMid.png
+  artifactKey: Guid(f6c283b16b2933a48b5a32182dcfcc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_verticalMid.png using Guid(f6c283b16b2933a48b5a32182dcfcc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1e647ea067975babeb0d9087168a36') in 0.072439 seconds
+  Import took 0.083903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_horizontalMid.png
+  artifactKey: Guid(ab49067444c60844a88540ef892b8db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_horizontalMid.png using Guid(ab49067444c60844a88540ef892b8db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6836ecd12bdd04381917e7ed7708e7d0') in 0.054229 seconds
+  Import took 0.076933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowSilver_left.png
+  artifactKey: Guid(47d4d7455756da343af2232dc3f73d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowSilver_left.png using Guid(47d4d7455756da343af2232dc3f73d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14eee210442a148d9149a0444ac67cf6') in 0.058582 seconds
+  Import took 0.071348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorHand_beige.png
+  artifactKey: Guid(e998a6f0cb0efdb43b1ec4e128ecd2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorHand_beige.png using Guid(e998a6f0cb0efdb43b1ec4e128ecd2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82fbc283be8a19f85d04c6b5956ff0c0') in 0.038248 seconds
+  Import took 0.064260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_horizontalRight.png
+  artifactKey: Guid(efcfe17a17fd63c4a9ad824a463448ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_horizontalRight.png using Guid(efcfe17a17fd63c4a9ad824a463448ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3f1fb6dbd66386a9d80fbb2f6bc2640') in 0.038427 seconds
+  Import took 0.065385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_verticalBottom.png
+  artifactKey: Guid(717f3d95ea586ad4ea6b1fe6cff06368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_verticalBottom.png using Guid(717f3d95ea586ad4ea6b1fe6cff06368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ccbceea625e08aa052385b35c282f78') in 0.059110 seconds
+  Import took 0.091177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonLong_grey_pressed.png
+  artifactKey: Guid(660bc8c0e8803cc408af809f9886a833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonLong_grey_pressed.png using Guid(660bc8c0e8803cc408af809f9886a833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a969b24f477038d81de3d2b492b8f0d') in 0.034693 seconds
+  Import took 0.058538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_horizontalRight.png
+  artifactKey: Guid(74d339a5f1aa5694f955305d9f0acbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_horizontalRight.png using Guid(74d339a5f1aa5694f955305d9f0acbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05388bdd02bdbc5e739271d094473703') in 0.097431 seconds
+  Import took 0.129270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorSword_bronze.png
+  artifactKey: Guid(25a6176064c9a9a4db4d1ad91d8b05a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorSword_bronze.png using Guid(25a6176064c9a9a4db4d1ad91d8b05a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cde10ff174d7aac7303abd75c7b02e80') in 0.059633 seconds
+  Import took 0.085757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonRound_brown.png
+  artifactKey: Guid(6c1e3adb1e61170438cfd243793d2e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonRound_brown.png using Guid(6c1e3adb1e61170438cfd243793d2e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b52c21febf51891498d0b50a677b51b') in 0.215583 seconds
+  Import took 0.260076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/cancel.png
+  artifactKey: Guid(2443b2cce8d0e894ea3e964860ec4160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/cancel.png using Guid(2443b2cce8d0e894ea3e964860ec4160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f839b831b7903aa64b5694230b72d886') in 0.161062 seconds
+  Import took 0.201809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_horizontalBlue.png
+  artifactKey: Guid(94a83849db5f5ae4b8283aa3d9070855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_horizontalBlue.png using Guid(94a83849db5f5ae4b8283aa3d9070855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f82ed8064170ba8f88d08592be9c2ea') in 0.182148 seconds
+  Import took 0.217847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonLong_blue_pressed.png
+  artifactKey: Guid(25805b6fd5f1b8641ad54d8aa40b930e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonLong_blue_pressed.png using Guid(25805b6fd5f1b8641ad54d8aa40b930e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6213325582e487540b480ddd8f284004') in 0.061684 seconds
+  Import took 0.103016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Unity/ConstraintSamples/Materials/A.png
+  artifactKey: Guid(df646550bafb34bbc8544dc1cb378d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity/ConstraintSamples/Materials/A.png using Guid(df646550bafb34bbc8544dc1cb378d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cbb7c9ed1f21246187ba3d4992bc068') in 0.131388 seconds
+  Import took 0.164525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Unity/ConstraintSamples/Materials/B.png
+  artifactKey: Guid(d0ca99642fe5f4ffa9859004dacf948c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity/ConstraintSamples/Materials/B.png using Guid(d0ca99642fe5f4ffa9859004dacf948c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3226bee7cf3cea11194e98f0c3a2800') in 0.102820 seconds
+  Import took 0.139879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonRound_grey.png
+  artifactKey: Guid(9003d387f11383944ac5b33fcd5f72f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonRound_grey.png using Guid(9003d387f11383944ac5b33fcd5f72f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de68ace146ed5cc7e3c26d0e62ae7dc6') in 0.085545 seconds
+  Import took 0.112219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_brown_pressed.png
+  artifactKey: Guid(a829e7f83e3d1644a9e99f629a6a99bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_brown_pressed.png using Guid(a829e7f83e3d1644a9e99f629a6a99bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fa07f7bc3ab965245d312e78d00e4fd') in 0.076287 seconds
+  Import took 0.090068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_verticalMid.png
+  artifactKey: Guid(9e66925e5c0ada54ca133a58afe254c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_verticalMid.png using Guid(9e66925e5c0ada54ca133a58afe254c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45709423ad264cda8bb2ce5132af6ec5') in 0.053081 seconds
+  Import took 0.076653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_horizontalRight.png
+  artifactKey: Guid(8ac0f634aa9604145b1227b373dedf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_horizontalRight.png using Guid(8ac0f634aa9604145b1227b373dedf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d767ff1aa32415b94820a7b55be7c3c') in 0.062930 seconds
+  Import took 0.093144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_verticalMid.png
+  artifactKey: Guid(0348105ec17585e4190a680fc2374778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_verticalMid.png using Guid(0348105ec17585e4190a680fc2374778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f656799ff481974ab164025c790f8c') in 0.042135 seconds
+  Import took 0.072315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002396 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_verticalBottom.png
+  artifactKey: Guid(1eb415778868b034aa96faf6a408e263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_verticalBottom.png using Guid(1eb415778868b034aa96faf6a408e263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d62c5eb83ddbb89de99027d41e5108c') in 0.163882 seconds
+  Import took 0.176218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_horizontalMid.png
+  artifactKey: Guid(df5fa244b490a514598e857e88d2b8cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_horizontalMid.png using Guid(df5fa244b490a514598e857e88d2b8cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50bc708255e44a1a6016ea1f8c3314f3') in 0.094521 seconds
+  Import took 0.152476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBeige_right.png
+  artifactKey: Guid(eacfeda9fb842ee48a6264d37a651891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBeige_right.png using Guid(eacfeda9fb842ee48a6264d37a651891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab758235640fde45dacd4b3bf7ab6010') in 0.067488 seconds
+  Import took 0.095451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_verticalTop.png
+  artifactKey: Guid(3742d73aa442bc24faf8875112aed726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_verticalTop.png using Guid(3742d73aa442bc24faf8875112aed726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf831510c7031ab608d7a4fc6425d88') in 0.075640 seconds
+  Import took 0.104253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBrown_right.png
+  artifactKey: Guid(95caeb4c9d0686f4c8f056291ff61e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBrown_right.png using Guid(95caeb4c9d0686f4c8f056291ff61e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daab669ce730167f00e137f0f80c9a2c') in 0.073678 seconds
+  Import took 0.107331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_horizontalRight.png
+  artifactKey: Guid(979570bf89d78d9458cb6ff8e37b82cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_horizontalRight.png using Guid(979570bf89d78d9458cb6ff8e37b82cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0329a0a5c842f41d8a48735ac732db97') in 0.086846 seconds
+  Import took 0.120144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set-free.png
+  artifactKey: Guid(f3e42cb7317f6f14186e2c2267014de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set-free.png using Guid(f3e42cb7317f6f14186e2c2267014de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be9bc93d95958af6016f2232efac2bd') in 0.171347 seconds
+  Import took 0.201890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_horizontalLeft.png
+  artifactKey: Guid(c40df9c3e81b0284384498901363172a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_horizontalLeft.png using Guid(c40df9c3e81b0284384498901363172a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b978487535bc241ac10af987219078a') in 0.080566 seconds
+  Import took 0.098921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png
+  artifactKey: Guid(84487d73ca4b791498332d8f6858417f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png using Guid(84487d73ca4b791498332d8f6858417f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93419cff51985178f99a473e5c1c14be') in 0.076305 seconds
+  Import took 0.110099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png
+  artifactKey: Guid(2a1f3cba20f3e11498474a705db12fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png using Guid(2a1f3cba20f3e11498474a705db12fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2da1c0b6129c2457adfb47b4d30c60') in 0.084493 seconds
+  Import took 0.114785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorGauntlet_bronze.png
+  artifactKey: Guid(9eda235439ddac84698466cf450655b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorGauntlet_bronze.png using Guid(9eda235439ddac84698466cf450655b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16bf3fde8700333c8183617afed34b2d') in 0.089615 seconds
+  Import took 0.132862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png
+  artifactKey: Guid(54628aafa20f64b40ae661038ee7abf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png using Guid(54628aafa20f64b40ae661038ee7abf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a6247b19d6e9a0853f6ea01f40c012') in 0.130212 seconds
+  Import took 0.142692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_beige_pressed.png
+  artifactKey: Guid(6e11e9cb21d5cdb4fa24295c6de5b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_beige_pressed.png using Guid(6e11e9cb21d5cdb4fa24295c6de5b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76025a802913fc34dd655538baff58f7') in 0.074966 seconds
+  Import took 0.113381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorGauntlet_blue.png
+  artifactKey: Guid(505fc7053cbe90543b88db4c5d7b332d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/cursorGauntlet_blue.png using Guid(505fc7053cbe90543b88db4c5d7b332d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c92f066aacdfc2f81d3e08320e9dc0') in 0.053789 seconds
+  Import took 0.094008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_verticalTop.png
+  artifactKey: Guid(247ee10266bcb864b934c054bfc3f0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_verticalTop.png using Guid(247ee10266bcb864b934c054bfc3f0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e46cbc6f927ac08853dea19390b763') in 0.075147 seconds
+  Import took 0.102639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/FireBall/burning-meteor.png
+  artifactKey: Guid(98452c33329c59e4d9cadc9c45eb7997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/FireBall/burning-meteor.png using Guid(98452c33329c59e4d9cadc9c45eb7997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5896cda18c72cbb8064b72a629702f4b') in 0.065420 seconds
+  Import took 0.089038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_verticalBottom.png
+  artifactKey: Guid(80e51390bfd3e20469d24be298d9be63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_verticalBottom.png using Guid(80e51390bfd3e20469d24be298d9be63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03cd2d3d295183497327039c3d499ece') in 0.064570 seconds
+  Import took 0.082214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png
+  artifactKey: Guid(48c0d4d6bebaa934384b07aa1e2f8184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png using Guid(48c0d4d6bebaa934384b07aa1e2f8184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4852dab7c1303d0b493eeacec119ce') in 0.106535 seconds
+  Import took 0.121478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_verticalBottom.png
+  artifactKey: Guid(9e21dcf867da94148986afea29bf828b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_verticalBottom.png using Guid(9e21dcf867da94148986afea29bf828b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e2a14e25af968b10b62ca0628f5863') in 0.046796 seconds
+  Import took 0.071267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_horizontalLeft.png
+  artifactKey: Guid(c46bb936ba54e8f4ea4a0956f035b64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barGreen_horizontalLeft.png using Guid(c46bb936ba54e8f4ea4a0956f035b64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a401ce16db729d5b37ea6622e0142b6d') in 0.049357 seconds
+  Import took 0.066877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_verticalTop.png
+  artifactKey: Guid(514df12ca10b2974f9bedec2056e4a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_verticalTop.png using Guid(514df12ca10b2974f9bedec2056e4a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313e07e08f77e292ffb03765f4bc479e') in 0.079508 seconds
+  Import took 0.131758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png
+  artifactKey: Guid(4cbc879550e5e374a925e2e0a84d6f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png using Guid(4cbc879550e5e374a925e2e0a84d6f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6de4841f08a2f59798bcfbaa7eb185d') in 0.152904 seconds
+  Import took 0.203161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/Ulta/fire-silhouette.png
+  artifactKey: Guid(5ed02ca4b1d24524b9718c353d2487e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/Ulta/fire-silhouette.png using Guid(5ed02ca4b1d24524b9718c353d2487e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b836c18f4146130da57b1bd2ad8bef3d') in 0.106949 seconds
+  Import took 0.150090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Yellow.png
+  artifactKey: Guid(f26fa8880b3aeef4b8516c82dc12f2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Yellow.png using Guid(f26fa8880b3aeef4b8516c82dc12f2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e829062239940d61a47b08539f59eb1d') in 0.160552 seconds
+  Import took 0.201866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Red.png
+  artifactKey: Guid(e9d4143c19529834981ac6821a04aecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Red.png using Guid(e9d4143c19529834981ac6821a04aecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca80578f4cb182096d8f21638294059f') in 0.159940 seconds
+  Import took 0.196827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Gray.png
+  artifactKey: Guid(f73f68fe6815f5548a6c2a61b9e49add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Exclamation_Gray.png using Guid(f73f68fe6815f5548a6c2a61b9e49add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863b1b10e0a4fb619e38726d57022f45') in 0.116709 seconds
+  Import took 0.168407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Division line.png
+  artifactKey: Guid(b7d245916891cca47a0144e12a82e086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/Division line.png using Guid(b7d245916891cca47a0144e12a82e086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c6f6814527d2794b01b3049190cfd7') in 0.118854 seconds
+  Import took 0.179738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png
+  artifactKey: Guid(c8585b68a92b5d440992ddd7d1b1a3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png using Guid(c8585b68a92b5d440992ddd7d1b1a3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3f30c930c3d0f5032cffa16a59f1d8') in 0.082135 seconds
+  Import took 0.159354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon07.png
+  artifactKey: Guid(0d60be1602a15eb4ca32ec021789fccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon07.png using Guid(0d60be1602a15eb4ca32ec021789fccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8b96cd0edade1ab1ab4dcc91820cb0') in 0.087141 seconds
+  Import took 0.124394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Ridged.png
+  artifactKey: Guid(3a74f678ee8f3bd49aacf3de1ae4bcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Ridged.png using Guid(3a74f678ee8f3bd49aacf3de1ae4bcaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6005d75d71071028c87b54c51039aadb') in 0.109355 seconds
+  Import took 0.143166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Outline.png
+  artifactKey: Guid(085185b08a40a924985bc0e4176edea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Outline.png using Guid(085185b08a40a924985bc0e4176edea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0868eb8f29ceb8454301d41e39b1f258') in 0.064891 seconds
+  Import took 0.094563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png
+  artifactKey: Guid(a6c56474666ce0647bdb766e9b4764b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png using Guid(a6c56474666ce0647bdb766e9b4764b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128ebf0724ebdb98dd38691d734e033e') in 0.153706 seconds
+  Import took 0.197747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon10.png
+  artifactKey: Guid(1db09715c3237fb46894cc11003d856d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon10.png using Guid(1db09715c3237fb46894cc11003d856d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7523ec32962581ae18c107588f591842') in 0.065217 seconds
+  Import took 0.097117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon13.png
+  artifactKey: Guid(94f56de286c5dc54b97e02827baa994d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon13.png using Guid(94f56de286c5dc54b97e02827baa994d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e06c50002aba380934796df3842b1e7') in 0.080042 seconds
+  Import took 0.115915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png
+  artifactKey: Guid(7927b9032dc11e841af3f9a1353d7ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png using Guid(7927b9032dc11e841af3f9a1353d7ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1005b380bf2a9c3aac09f62a4aadd33d') in 0.090499 seconds
+  Import took 0.118466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCheck_grey.png
+  artifactKey: Guid(6408cdc34ffe59f40a29a4914604d6f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCheck_grey.png using Guid(6408cdc34ffe59f40a29a4914604d6f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e400409c7c8a421edddead8ae9200ba8') in 0.085264 seconds
+  Import took 0.104991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001010 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/katana.png
+  artifactKey: Guid(b07f450b1273f3242bd9e300ea8399ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/katana.png using Guid(b07f450b1273f3242bd9e300ea8399ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6fbe00bce490d35d9c0e1124d58c05') in 0.143305 seconds
+  Import took 0.186159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/[1] HichDX/UI/idle.png
+  artifactKey: Guid(206cb12fcb8c3db4d9a12060d7cab291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/idle.png using Guid(206cb12fcb8c3db4d9a12060d7cab291) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532980c36704402e3155cba91741ebb3') in 0.101811 seconds
+  Import took 0.146806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/FireBall/idle.png
+  artifactKey: Guid(cb128197c8c7b0340981e9a53646d442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/FireBall/idle.png using Guid(cb128197c8c7b0340981e9a53646d442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80be0c1f326b4a01164aa5d5b1365027') in 0.049283 seconds
+  Import took 0.073121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon20.png
+  artifactKey: Guid(eb0a2ac691799e44baf079b9e59f3d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon20.png using Guid(eb0a2ac691799e44baf079b9e59f3d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c6d1b7406752428d1a136997b6e628') in 0.086929 seconds
+  Import took 0.119744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002009 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCircle_grey.png
+  artifactKey: Guid(ebb50cdbe32f42f46897602abe287138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCircle_grey.png using Guid(ebb50cdbe32f42f46897602abe287138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0621d1130505173e43db83d3f9b9bcf') in 0.078881 seconds
+  Import took 0.116635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCross_brown.png
+  artifactKey: Guid(c88f427e85d3b5444968bf217403dbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCross_brown.png using Guid(c88f427e85d3b5444968bf217403dbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b726703f136206ee5e8bdc281dff090') in 0.065570 seconds
+  Import took 0.101338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png
+  artifactKey: Guid(b8467ea5fbaf9ba42908de6411bd443d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png using Guid(b8467ea5fbaf9ba42908de6411bd443d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9e0f2a360b8c15b05bc4be2e58407d') in 0.325981 seconds
+  Import took 0.411282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000796 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCheck_bronze.png
+  artifactKey: Guid(b9a681a9272e2cb479ea3e718c937aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCheck_bronze.png using Guid(b9a681a9272e2cb479ea3e718c937aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '074d4b441328a89df6dcdc7ee578ab5b') in 0.081495 seconds
+  Import took 0.106813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon11.png
+  artifactKey: Guid(234108f8c37e647408a06e13884a567f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon11.png using Guid(234108f8c37e647408a06e13884a567f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6689f3e60d84a851781d87ba06393ca9') in 0.072860 seconds
+  Import took 0.101205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png
+  artifactKey: Guid(6304ad603f150b649b764d29bbc2a87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png using Guid(6304ad603f150b649b764d29bbc2a87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f68601a8edcf5949d473ca4cbfc7255') in 0.086985 seconds
+  Import took 0.121269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon18.png
+  artifactKey: Guid(efb1b25f6dc2235428fed902637be70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon18.png using Guid(efb1b25f6dc2235428fed902637be70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422501ff83f772e16dd3383a105e6348') in 0.084741 seconds
+  Import took 0.116502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCross_grey.png
+  artifactKey: Guid(12a4789851261a441bee5712820890f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCross_grey.png using Guid(12a4789851261a441bee5712820890f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fbb7ba355ed862b6ec22d2d9cecb4b') in 0.069797 seconds
+  Import took 0.232471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon02.png
+  artifactKey: Guid(98b3b5543b2c3dd42a49f6fa5208ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon02.png using Guid(98b3b5543b2c3dd42a49f6fa5208ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fca7e2a67e6197a86fab98d94dd5d91') in 0.089376 seconds
+  Import took 0.173678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCircle_brown.png
+  artifactKey: Guid(6d96958420a0dfa46a3ba906221d1a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCircle_brown.png using Guid(6d96958420a0dfa46a3ba906221d1a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f070ad2a454f6f66d2e9c3da0c0b8859') in 0.041033 seconds
+  Import took 0.054356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Plain.png
+  artifactKey: Guid(010a6e5305fa7004f89c5d317b7b47d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Plain.png using Guid(010a6e5305fa7004f89c5d317b7b47d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3abdd5257a9415e80daea9a4276ce2f5') in 0.073343 seconds
+  Import took 0.104225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon15.png
+  artifactKey: Guid(865a1e36c7f394045ae1cfbe3f99c224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon15.png using Guid(865a1e36c7f394045ae1cfbe3f99c224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09246455533c363ed8d9a1eac9a35ce5') in 0.080360 seconds
+  Import took 0.155173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon14.png
+  artifactKey: Guid(2aadcdbb8210c384b9020c44c4910895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon14.png using Guid(2aadcdbb8210c384b9020c44c4910895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312879cbb3a2f4f9f472a91e484e5935') in 0.062594 seconds
+  Import took 0.074551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png
+  artifactKey: Guid(cd0a2c1b2c014ba4c80c1df786e150e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png using Guid(cd0a2c1b2c014ba4c80c1df786e150e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30056a4d6fd110c8710950489063b1c') in 0.118450 seconds
+  Import took 0.158876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon21.png
+  artifactKey: Guid(a8c7e331c9cdf6b4b9f16ec1085eb14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon21.png using Guid(a8c7e331c9cdf6b4b9f16ec1085eb14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7750dd543d5125f22b365040812738f') in 0.067810 seconds
+  Import took 0.097367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png
+  artifactKey: Guid(097782735540f2d4db5606eae04ae6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png using Guid(097782735540f2d4db5606eae04ae6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d44709b78ccb00261c8c08583f5026') in 0.128376 seconds
+  Import took 0.151351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/FireBall/match-head.png
+  artifactKey: Guid(3235bf88df2861f488a33501286b3919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/FireBall/match-head.png using Guid(3235bf88df2861f488a33501286b3919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3824546096d1d98e87df5e5b68ea46bb') in 0.062230 seconds
+  Import took 0.094159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000907 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCross_beige.png
+  artifactKey: Guid(c3d45c83bc714f741ac4b077667a6b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCross_beige.png using Guid(c3d45c83bc714f741ac4b077667a6b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820ea0554a7a47542b3efd7d95b38be2') in 0.087702 seconds
+  Import took 0.113247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCheck_blue.png
+  artifactKey: Guid(85ca2190ffede5f4eab8d623d995a706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCheck_blue.png using Guid(85ca2190ffede5f4eab8d623d995a706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '900948e62a8a556b5837ca8346f891fc') in 0.071588 seconds
+  Import took 0.094884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png
+  artifactKey: Guid(5eda94a9dcf71e445ad17e3c065d1460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png using Guid(5eda94a9dcf71e445ad17e3c065d1460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '664ce7953ebdf3d54c53fa5f3c25cccb') in 0.095644 seconds
+  Import took 0.111560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  Large.png
+  artifactKey: Guid(054411784c3fdf74d9db120b4a792a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  Large.png using Guid(054411784c3fdf74d9db120b4a792a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c710173ceac69e2527e5778d3e15a89f') in 0.133591 seconds
+  Import took 0.168140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCross_blue.png
+  artifactKey: Guid(39f8040b82afd094eb6d9b147e57446a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCross_blue.png using Guid(39f8040b82afd094eb6d9b147e57446a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac9043f7d4c9d094c4f5b55f25e36886') in 0.065174 seconds
+  Import took 0.092485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  empty.png
+  artifactKey: Guid(4d6a99baee23b654f9e4bb672ae0b438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/IRONY TITLE  empty.png using Guid(4d6a99baee23b654f9e4bb672ae0b438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2f983a41b2319d714f20c3eb6b9840') in 0.098739 seconds
+  Import took 0.321996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/notice.png
+  artifactKey: Guid(86adaa715d8969e48975ca3343ddaedd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/notice.png using Guid(86adaa715d8969e48975ca3343ddaedd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a8388277f9e84d76a189031d1ebddd6') in 0.087087 seconds
+  Import took 0.125888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000814 seconds.
+  path: Assets/[1] HichDX/UI/pngs/pngs/red/meter_text_background_right_edge_red.png
+  artifactKey: Guid(a5cfcb68fd77dc5458a9be541112d96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/pngs/pngs/red/meter_text_background_right_edge_red.png using Guid(a5cfcb68fd77dc5458a9be541112d96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1075ea188c27869eaeabb004bd2bcc28') in 0.126926 seconds
+  Import took 0.185050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000767 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/panelInset_beigeLight.png
+  artifactKey: Guid(25a3d7469baf2e248bf39538758b05ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/panelInset_beigeLight.png using Guid(25a3d7469baf2e248bf39538758b05ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1df376cf5644fb2a1f8e13ef285868c') in 0.088694 seconds
+  Import took 0.119497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/panel_brown.png
+  artifactKey: Guid(47a11fb9d7bbeb84faa415ffc12ff471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/panel_brown.png using Guid(47a11fb9d7bbeb84faa415ffc12ff471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52606a8b948334c36509959fccc30ffa') in 0.088169 seconds
+  Import took 0.120772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/[1] HichDX/UI/PXUI-Basic/PXUI-Basic/panel_Example3.png
+  artifactKey: Guid(918238f7ddf7a5d4bbb10474adf030e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/PXUI-Basic/PXUI-Basic/panel_Example3.png using Guid(918238f7ddf7a5d4bbb10474adf030e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16df5fae9e407f5fdcb77c324b7a51fe') in 0.061914 seconds
+  Import took 0.079404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/panelInset_blue.png
+  artifactKey: Guid(285019d7d5b6e5245aefd6cb81b7dcd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/panelInset_blue.png using Guid(285019d7d5b6e5245aefd6cb81b7dcd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a123872e0397c0843fc6a96828e09771') in 0.059021 seconds
+  Import took 0.092727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001739 seconds.
+  path: Assets/[1] HichDX/UI/PXUI-Basic/PXUI-Basic/panel_Example2.png
+  artifactKey: Guid(ae1bd91e033ef9e448eedb3c33073405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/PXUI-Basic/PXUI-Basic/panel_Example2.png using Guid(ae1bd91e033ef9e448eedb3c33073405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06719785d914efc25a52bbe7a7d1c4b5') in 0.065902 seconds
+  Import took 0.089773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon05.png
+  artifactKey: Guid(fc407b74b45e0ac46a1d591c3824149b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon05.png using Guid(fc407b74b45e0ac46a1d591c3824149b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d77f7ae950e1d55393a0f0ce868333') in 0.059963 seconds
+  Import took 0.106029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon17.png
+  artifactKey: Guid(e2af3c83357aed84980fc6d24e6f753a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon17.png using Guid(e2af3c83357aed84980fc6d24e6f753a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eafa7533bee901fc85d28fd9aebb35a') in 0.064264 seconds
+  Import took 0.088786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCheck_beige.png
+  artifactKey: Guid(748ff98ce3511a5469d429600b9e8a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/iconCheck_beige.png using Guid(748ff98ce3511a5469d429600b9e8a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3c4ca382399be8e4dbfa029b6d1d3e') in 0.083509 seconds
+  Import took 0.114091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/padlock.png
+  artifactKey: Guid(ceda8b6564db4214bb9a8abd8aadd4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/padlock.png using Guid(ceda8b6564db4214bb9a8abd8aadd4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b85c424876d032fadb85f508be7af32') in 0.163800 seconds
+  Import took 0.195810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon22.png
+  artifactKey: Guid(7920394620926b043b25fa66cebcbfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon22.png using Guid(7920394620926b043b25fa66cebcbfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5b3fc90774d08cb34c3a8d92fc09ed') in 0.097393 seconds
+  Import took 0.137258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/panelInset_beige.png
+  artifactKey: Guid(e016ade7c9093d64fa296e9b68929ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/panelInset_beige.png using Guid(e016ade7c9093d64fa296e9b68929ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e24e893a031654277caf192fccadcb') in 0.118370 seconds
+  Import took 0.150125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon09.png
+  artifactKey: Guid(0316fac2771e29f4d89653e453b9920c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/Icon09.png using Guid(0316fac2771e29f4d89653e453b9920c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9585905ab7e7a4f65988d7163196340') in 0.083215 seconds
+  Import took 0.109614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/[1] HichDX/UI/pngs/pngs/red/meter_text_background_red.png
+  artifactKey: Guid(59a2eef77375fb74aab9c1476f6b6c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/pngs/pngs/red/meter_text_background_red.png using Guid(59a2eef77375fb74aab9c1476f6b6c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61caea37e349adc491c63dee927abe96') in 0.101054 seconds
+  Import took 0.129352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png
+  artifactKey: Guid(f353d42d1db27ff42b78b28efd86b316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png using Guid(f353d42d1db27ff42b78b28efd86b316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75924c32f73fdc689964004f964b6ec') in 0.136948 seconds
+  Import took 0.162906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/[1] HichDX/UI/hover.png
+  artifactKey: Guid(807bf7f368209ee4089c318c75a5853d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/hover.png using Guid(807bf7f368209ee4089c318c75a5853d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6fc1d60d5617885a85a02a4d7bfe0c6') in 0.107646 seconds
+  Import took 0.131569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_brown.png
+  artifactKey: Guid(b4f2f47a71daf524e86fd41a2d4d5c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_brown.png using Guid(b4f2f47a71daf524e86fd41a2d4d5c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8a30dcea3c6692f8d2b613034d340f') in 0.080303 seconds
+  Import took 0.106610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_horizontalLeft.png
+  artifactKey: Guid(d0457a0da2a69c149956de48c16363b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_horizontalLeft.png using Guid(d0457a0da2a69c149956de48c16363b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b516f937cc39e685466400e98fe094') in 0.092548 seconds
+  Import took 0.118706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBlue_right.png
+  artifactKey: Guid(04995eff9b0861d49a65c3b86e6d142b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBlue_right.png using Guid(04995eff9b0861d49a65c3b86e6d142b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aeb1aec6029e84897a78518e1974b06') in 0.203203 seconds
+  Import took 0.243530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Unity/ConstraintSamples/Materials/AB.png
+  artifactKey: Guid(fb7e3d821132d42bbbc37a4b177c2a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity/ConstraintSamples/Materials/AB.png using Guid(fb7e3d821132d42bbbc37a4b177c2a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c24b6f05d8d8ff07e7669d73ccce352d') in 0.074541 seconds
+  Import took 0.102345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_blue.png
+  artifactKey: Guid(f6b813a36f0fef148b991acbedcf8e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_blue.png using Guid(f6b813a36f0fef148b991acbedcf8e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25156f1f9bb91598b9dc75de1fa7523') in 0.106213 seconds
+  Import took 0.135352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_verticalBottom.png
+  artifactKey: Guid(52e28f4fb2a042e4583bcd3161537909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_verticalBottom.png using Guid(52e28f4fb2a042e4583bcd3161537909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ebf2ec4ed5570210723710366410ba9') in 0.079431 seconds
+  Import took 0.115446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/Sword/dripping-knife.png
+  artifactKey: Guid(346e7a4d05e9f3843b9492b04215201c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/Sword/dripping-knife.png using Guid(346e7a4d05e9f3843b9492b04215201c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6101349abfa0897e4aac91163910bc00') in 0.111083 seconds
+  Import took 0.144661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonRound_blue.png
+  artifactKey: Guid(b4dfd4d381a15004fb00a15a20410256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonRound_blue.png using Guid(b4dfd4d381a15004fb00a15a20410256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '386b5a078ccbc2ce0efc0dd5102f8fd3') in 0.096705 seconds
+  Import took 0.133221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_blue_pressed.png
+  artifactKey: Guid(0e120563c2e84d14eb94c2a5a2892964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/buttonSquare_blue_pressed.png using Guid(0e120563c2e84d14eb94c2a5a2892964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5196f8435584c3c7eb587c3aacd0a588') in 0.096919 seconds
+  Import took 0.144851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_horizontalLeft.png
+  artifactKey: Guid(9202a070e7d7efe459f091b2733fe1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBlue_horizontalLeft.png using Guid(9202a070e7d7efe459f091b2733fe1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd0f5950eb857696254b2288a2f6239b') in 0.115022 seconds
+  Import took 0.156958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_horizontalLeft.png
+  artifactKey: Guid(9d539a884fea98f4bbd559b217a3ab0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_horizontalLeft.png using Guid(9d539a884fea98f4bbd559b217a3ab0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a32a3ba99843692ee3689bc180329441') in 0.080951 seconds
+  Import took 0.119326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_horizontalRight.png
+  artifactKey: Guid(92b95745fff6a224ca966b7895c2cf63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barRed_horizontalRight.png using Guid(92b95745fff6a224ca966b7895c2cf63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef75e3ee8f53e8d8212c633315457ad') in 0.077814 seconds
+  Import took 0.128131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_verticalMid.png
+  artifactKey: Guid(23fcc55a2a169a1469d41551716414cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barYellow_verticalMid.png using Guid(23fcc55a2a169a1469d41551716414cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7f6f2141fff1c4c7c1d01554a09a07') in 0.110250 seconds
+  Import took 0.161165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/fire-spell-cast.png
+  artifactKey: Guid(87d72027857fe244f8d658a47d9cedeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/fire-spell-cast.png using Guid(87d72027857fe244f8d658a47d9cedeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58a04ebcf94727f89b838141e4f53b8') in 0.136948 seconds
+  Import took 0.157803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_verticalTop.png
+  artifactKey: Guid(39ae78ac468a8934882d9609168b36f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/barBack_verticalTop.png using Guid(39ae78ac468a8934882d9609168b36f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a1906f9f6dc540379085659bd2f6469') in 0.106571 seconds
+  Import took 0.158593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBeige_left.png
+  artifactKey: Guid(5284133eeb4b5394f945ff9fe279712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/uipack-rpg/PNG/arrowBeige_left.png using Guid(5284133eeb4b5394f945ff9fe279712e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e3a06b9ddc14b8670b1a693fc01354') in 0.084750 seconds
+  Import took 0.126956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.143027 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/plain-circle.png
+  artifactKey: Guid(94b257911aa60794e82e32e0acae4ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/plain-circle.png using Guid(94b257911aa60794e82e32e0acae4ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c0cd5f306145a5cca9f1d3b636a1087') in 0.163483 seconds
+  Import took 0.194329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon07.png
+  artifactKey: Guid(2cff15db2200bbf4c801d340dcbc2a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon07.png using Guid(2cff15db2200bbf4c801d340dcbc2a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4309e11a8a8aba3746a9ead9249c74af') in 0.084201 seconds
+  Import took 0.106696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon09.png
+  artifactKey: Guid(e0fb8c12acc03f1478dd4a61a8bed4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon09.png using Guid(e0fb8c12acc03f1478dd4a61a8bed4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd704d6c30b9a0443ec288a2b6d0e4ea2') in 0.059785 seconds
+  Import took 0.092109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon10.png
+  artifactKey: Guid(8c91b42a949561a47913b0d069001a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon10.png using Guid(8c91b42a949561a47913b0d069001a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5123dbe80f2792b991eb2a013ad88a') in 0.046708 seconds
+  Import took 0.076503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon15.png
+  artifactKey: Guid(cc5358fa2d540bb429093d0f96505cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon15.png using Guid(cc5358fa2d540bb429093d0f96505cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce78cb14a31afc92aa0a66c35fb4876') in 0.075230 seconds
+  Import took 0.107065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon13.png
+  artifactKey: Guid(15b119726a78f0d489455cae590ea621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon13.png using Guid(15b119726a78f0d489455cae590ea621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca7dd5bc89aad45b6a0ce8d3a34c8e03') in 0.082165 seconds
+  Import took 0.103213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon16.png
+  artifactKey: Guid(ef2c25864ca2b1649aba1894deb73083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon16.png using Guid(ef2c25864ca2b1649aba1894deb73083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa7691e4b7f4f13d86bb8e6bd53a6c9') in 0.056670 seconds
+  Import took 0.081824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon19.png
+  artifactKey: Guid(584b80686018efb489c35928c2465602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon19.png using Guid(584b80686018efb489c35928c2465602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08c51d6d71a5eb3cbaabd4c1bc5495e') in 0.073485 seconds
+  Import took 0.111564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon18.png
+  artifactKey: Guid(a7a35896fd00dc34786a8476811626a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon18.png using Guid(a7a35896fd00dc34786a8476811626a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be1919e1a1bfda140e25f27541753095') in 0.077687 seconds
+  Import took 0.108958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon45.png
+  artifactKey: Guid(7d0015e3b0a6f3942ba9688540042d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon45.png using Guid(7d0015e3b0a6f3942ba9688540042d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e67d609328a8c914d57e6ce61671fa') in 0.055081 seconds
+  Import took 0.073703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon38.png
+  artifactKey: Guid(3b229df1a86c878448a9ff449b6b800d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon38.png using Guid(3b229df1a86c878448a9ff449b6b800d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87484c121a3083c20e7dfea01aa8fc3e') in 0.050851 seconds
+  Import took 0.103706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon44.png
+  artifactKey: Guid(1013657f927224d47b62536a41ebfbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon44.png using Guid(1013657f927224d47b62536a41ebfbd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e95caa704d0bcfe0a6e3bea5958b7f') in 0.090544 seconds
+  Import took 0.117364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Big.png
+  artifactKey: Guid(2be7b70e984b51444aca9c12ae4723a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Big.png using Guid(2be7b70e984b51444aca9c12ae4723a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53383f94478e82f481860b2573c8c0b') in 0.139508 seconds
+  Import took 0.156009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Cancel_Pressed.png
+  artifactKey: Guid(9494e936ef153d148aaddfa6db5fb773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Cancel_Pressed.png using Guid(9494e936ef153d148aaddfa6db5fb773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa070cf804461ebf3a7a9daec74850c') in 0.081143 seconds
+  Import took 0.096732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Medium_Pressed.png
+  artifactKey: Guid(047b929beb10565479851d39b452dfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Medium_Pressed.png using Guid(047b929beb10565479851d39b452dfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a710da28c21a43a2e82bf071f2ace62e') in 0.075281 seconds
+  Import took 0.129008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/Ulta/spark-spirit.png
+  artifactKey: Guid(5d3878e82d8a99c4dbdcce087971869b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/Ulta/spark-spirit.png using Guid(5d3878e82d8a99c4dbdcce087971869b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b785cb20e29d1d1a6688ca3fe4819144') in 0.091061 seconds
+  Import took 0.126310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon29.png
+  artifactKey: Guid(d02592c2a24aab446a11ad7e41a4641a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon29.png using Guid(d02592c2a24aab446a11ad7e41a4641a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdffa1d07f56110493209e274eba853d') in 0.092408 seconds
+  Import took 0.125057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon40.png
+  artifactKey: Guid(9e98911894074b74cac60bb44aa1162b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon40.png using Guid(9e98911894074b74cac60bb44aa1162b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b8a690503db41f91aabe5e7b3b34a8') in 0.055292 seconds
+  Import took 0.082643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon33.png
+  artifactKey: Guid(7f1c5156b65147246bf5920e14b0d29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon33.png using Guid(7f1c5156b65147246bf5920e14b0d29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6a801c156177e4f09310d9cc43d26a') in 0.071233 seconds
+  Import took 0.106460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon36.png
+  artifactKey: Guid(188571ff41af0a8459bf27d919e72869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon36.png using Guid(188571ff41af0a8459bf27d919e72869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e36492ce2606dd32e1d3711bf273e4e') in 0.062797 seconds
+  Import took 0.087264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon26.png
+  artifactKey: Guid(521e44a5f28f09b4aa042775f96c93df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon26.png using Guid(521e44a5f28f09b4aa042775f96c93df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128a3d4fff16838461bfaf5116f1f708') in 0.078566 seconds
+  Import took 0.096156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Big_Pressed.png
+  artifactKey: Guid(d6a1673a31851fd4395c287261da36e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Big_Pressed.png using Guid(d6a1673a31851fd4395c287261da36e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1cd6e3b6def81daa2556e07b5758cd') in 0.096478 seconds
+  Import took 0.130709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon23.png
+  artifactKey: Guid(7d301013b7036af42b50276e60c70575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon23.png using Guid(7d301013b7036af42b50276e60c70575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c960db9bde01d0b3e512e520d4fe06e') in 0.052251 seconds
+  Import took 0.060766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon41.png
+  artifactKey: Guid(7905069a4e32deb45bcf8153eea73370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon41.png using Guid(7905069a4e32deb45bcf8153eea73370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0520bf6dbb5d8b99558182f78c36a9a0') in 0.064781 seconds
+  Import took 0.082257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon42.png
+  artifactKey: Guid(411aece8a78b1a441ac17c28fbcc456c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon42.png using Guid(411aece8a78b1a441ac17c28fbcc456c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff6417ab1b8da36ca4fb5d53244b2d1') in 0.090128 seconds
+  Import took 0.116898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon37.png
+  artifactKey: Guid(6ebe9f9d6718aaa4aa38c6e1f9112194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon37.png using Guid(6ebe9f9d6718aaa4aa38c6e1f9112194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '751e4c997fac84ec0b4d74964204d2f3') in 0.057859 seconds
+  Import took 0.078200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon34.png
+  artifactKey: Guid(9bb1299ac33d91246887a79b4c65bed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon34.png using Guid(9bb1299ac33d91246887a79b4c65bed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e1da3a1788a636406be180199baead') in 0.106661 seconds
+  Import took 0.126541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon21.png
+  artifactKey: Guid(c2601197581b55f45913dc61e12a5ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon21.png using Guid(c2601197581b55f45913dc61e12a5ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea1b4294db103a1cefaf59b5e4b39ccf') in 0.096382 seconds
+  Import took 0.143976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/Sword/saber-slash.png
+  artifactKey: Guid(210b7bbe44ec7b9429bf66704889efbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/Sword/saber-slash.png using Guid(210b7bbe44ec7b9429bf66704889efbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b8ee1473fe2d1d0b15730a1ab6a00b9') in 0.194439 seconds
+  Import took 0.242560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon14.png
+  artifactKey: Guid(1674b57af12a4a443afc7d4c8a16adc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon14.png using Guid(1674b57af12a4a443afc7d4c8a16adc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2c2dbe1b512ed8abb721d57a98c8b4') in 0.075466 seconds
+  Import took 0.100827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon12.png
+  artifactKey: Guid(b6daf53e9bc557b44bc71d038f6e9ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon12.png using Guid(b6daf53e9bc557b44bc71d038f6e9ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f56cc7cde3959b73eed97d67d501d5eb') in 0.043357 seconds
+  Import took 0.081698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/pyromaniac.png
+  artifactKey: Guid(c29c61a8a3aec8444949650488ce35cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/pyromaniac.png using Guid(c29c61a8a3aec8444949650488ce35cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d4940dfb75a21cacc47ac382a51f1a') in 0.111410 seconds
+  Import took 0.130727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Medium.png
+  artifactKey: Guid(efee20b64d1e73942a29ba61ce3379c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Medium.png using Guid(efee20b64d1e73942a29ba61ce3379c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81f87e8a0087008cd783be4765be8cfc') in 0.113223 seconds
+  Import took 0.139465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon03.png
+  artifactKey: Guid(a362ccbcf04353749957f2962b112434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon03.png using Guid(a362ccbcf04353749957f2962b112434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8dff6dbb663db191e5af6248583239') in 0.054034 seconds
+  Import took 0.084030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon22.png
+  artifactKey: Guid(caa51c4bbccd9e944bdbc89923aec629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon22.png using Guid(caa51c4bbccd9e944bdbc89923aec629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b1e07d1a3c5fe1b6c9af4a4469aec2') in 0.070503 seconds
+  Import took 0.100161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon24.png
+  artifactKey: Guid(1b1742213f45c7b42ba7ccc38aae8b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon24.png using Guid(1b1742213f45c7b42ba7ccc38aae8b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9cf55b130d2fd4b98d3ac86c6b3426') in 0.052402 seconds
+  Import took 0.100983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon31.png
+  artifactKey: Guid(03835ca44528a444289d1e849b854b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon31.png using Guid(03835ca44528a444289d1e849b854b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4551f2877e7815d89f230c192a4565e5') in 0.076797 seconds
+  Import took 0.106735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon30.png
+  artifactKey: Guid(1df5d361f3e685a46b7d19b1555a2395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon30.png using Guid(1df5d361f3e685a46b7d19b1555a2395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd367e701dea3584e2d72cf4b3fa0e90') in 0.055874 seconds
+  Import took 0.082733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon08.png
+  artifactKey: Guid(6a78b3bc3ce13324f871eec23d5a3e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon08.png using Guid(6a78b3bc3ce13324f871eec23d5a3e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a91f0914b92cf4d99de6d688026db0') in 0.056710 seconds
+  Import took 0.085773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon39.png
+  artifactKey: Guid(479fc6834b811b547b33ce86f8b74024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon39.png using Guid(479fc6834b811b547b33ce86f8b74024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac2c82d72803899eb9eeb5e5f0c8362') in 0.024965 seconds
+  Import took 0.037124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon11.png
+  artifactKey: Guid(233f9fb6751cf8041b94f42f88351dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon11.png using Guid(233f9fb6751cf8041b94f42f88351dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87212cc9312d5c17867fbcb29b58186e') in 0.060205 seconds
+  Import took 0.077444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/Sword/split-body.png
+  artifactKey: Guid(09698c6aff0ed1e4193e5fc9d076d756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/Sword/split-body.png using Guid(09698c6aff0ed1e4193e5fc9d076d756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb96087a0f0f2aedca9534638436ff6') in 0.056510 seconds
+  Import took 0.073372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Cancel.png
+  artifactKey: Guid(480144379cc9c7d47a8e19f58b0e6ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_Cancel.png using Guid(480144379cc9c7d47a8e19f58b0e6ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82ef98af64af5e5c0c549edffc0810f') in 0.103008 seconds
+  Import took 0.122254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills.png
+  artifactKey: Guid(64de7d904af9a1c42ad373ea3684f0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills.png using Guid(64de7d904af9a1c42ad373ea3684f0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cf129c516612160147a6f46d2dc6fd5') in 0.124214 seconds
+  Import took 0.153148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon46.png
+  artifactKey: Guid(4887d1b4fa9c269428077cbed2c394d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon46.png using Guid(4887d1b4fa9c269428077cbed2c394d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801fa4c3c4d4ad5b1b0236ba935859df') in 0.071938 seconds
+  Import took 0.103729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon35.png
+  artifactKey: Guid(23fa4b5dcf6f4dc4ca253e5f327b680c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon35.png using Guid(23fa4b5dcf6f4dc4ca253e5f327b680c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f876f4a95471d1a9e60cb4a3e8828f59') in 0.077908 seconds
+  Import took 0.109532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon02.png
+  artifactKey: Guid(3e303b1a6f1fbf44d8daa249315bd4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon02.png using Guid(3e303b1a6f1fbf44d8daa249315bd4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1910d55461a2b5d8bbc99a5cfe676ca') in 0.083804 seconds
+  Import took 0.135052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon27.png
+  artifactKey: Guid(11c6da9ee524b194589d9489f6b02374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon27.png using Guid(11c6da9ee524b194589d9489f6b02374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0012eccda750a7ca16165cf8b2c511a5') in 0.053444 seconds
+  Import took 0.070198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon06.png
+  artifactKey: Guid(3316f02b3826a1040b859de033b0ba0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon06.png using Guid(3316f02b3826a1040b859de033b0ba0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f57fb2f8df6760586a04d15b0f8749') in 0.091525 seconds
+  Import took 0.108785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon28.png
+  artifactKey: Guid(9d8830e3782b135419a450b6770de984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon28.png using Guid(9d8830e3782b135419a450b6770de984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f7d68a4cc5796aa1000b6d31b90628e') in 0.076747 seconds
+  Import took 0.099050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon25.png
+  artifactKey: Guid(84726ec35910a96479a1965c48862f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon25.png using Guid(84726ec35910a96479a1965c48862f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba0cfc6b64bba8996efde18522d7d535') in 0.070296 seconds
+  Import took 0.103008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon32.png
+  artifactKey: Guid(512978e516459d54f91e91fafc51ff46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon32.png using Guid(512978e516459d54f91e91fafc51ff46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6505c13643e96161ec6c764422c1bea') in 0.184368 seconds
+  Import took 0.237495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon20.png
+  artifactKey: Guid(8a87c85c19cb9d34eb9e96f8509b9532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon20.png using Guid(8a87c85c19cb9d34eb9e96f8509b9532) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8965c56accd43bcc552f78f96377975') in 0.038173 seconds
+  Import took 0.077830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon01.png
+  artifactKey: Guid(2c6cc015666403145bcd361bce34d6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon01.png using Guid(2c6cc015666403145bcd361bce34d6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c434a4ef33a270ae6ef65bef95a932') in 0.062046 seconds
+  Import took 0.120927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon43.png
+  artifactKey: Guid(0cfe50ec7fac78a40be0324f2c94f572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon43.png using Guid(0cfe50ec7fac78a40be0324f2c94f572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c14f6111a52da504af674133c8e24a') in 0.067732 seconds
+  Import took 0.228420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon17.png
+  artifactKey: Guid(5768d55df54564c469fe206448f16062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/UI/UIDifferentFree03Wenrexa/PNG/ResIcon17.png using Guid(5768d55df54564c469fe206448f16062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b8b732cb68068e437f07c8450daa6d') in 0.075694 seconds
+  Import took 0.100107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.808554 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start.png
+  artifactKey: Guid(ca45d178d188e034aa96a68aceeef41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start.png using Guid(ca45d178d188e034aa96a68aceeef41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f6ca245b5ca089d5d5d22de5bf9e26') in 0.184052 seconds
+  Import took 0.206272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png
+  artifactKey: Guid(9332cf0d233636a40a024382720294a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png using Guid(9332cf0d233636a40a024382720294a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f243222e4c29a5a21fc2f83866cd49de') in 0.194280 seconds
+  Import took 0.247721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium Set.png
+  artifactKey: Guid(1a5d8785d80a4ee42a2a4c8632436dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium Set.png using Guid(1a5d8785d80a4ee42a2a4c8632436dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c720eb2b60482752cf822865969773f') in 0.119499 seconds
+  Import took 0.147983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png
+  artifactKey: Guid(3bf6d9f920f7458448a390f80318ebe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png using Guid(3bf6d9f920f7458448a390f80318ebe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3777915887b75ab1dfae12fdf8f5d65') in 0.071628 seconds
+  Import took 0.096580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/thumb-up.png
+  artifactKey: Guid(947dcf7d5dac70e448f0e72634f4fbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/thumb-up.png using Guid(947dcf7d5dac70e448f0e72634f4fbe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740bd7ca0b47d5aa8cd3683dfab63f29') in 0.093956 seconds
+  Import took 0.121246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start_Pressed.png
+  artifactKey: Guid(2e5f47e2f71128f4282c0a4a67288751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start_Pressed.png using Guid(2e5f47e2f71128f4282c0a4a67288751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e3710bfda5fd88698b31b44621140ab') in 0.061441 seconds
+  Import took 0.091004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small  stone.png
+  artifactKey: Guid(8dd861a6e819de241bca68a36048a6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small  stone.png using Guid(8dd861a6e819de241bca68a36048a6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9df0a1dd3b9ed1d22e45fc9a87469e57') in 0.077373 seconds
+  Import took 0.099199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small Set.png
+  artifactKey: Guid(8eb69fafe4f719b49bb2dd1a7358aaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small Set.png using Guid(8eb69fafe4f719b49bb2dd1a7358aaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dfe5f19a57dc255ab1bc754aa7bb807') in 0.102729 seconds
+  Import took 0.126670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large stone.png
+  artifactKey: Guid(7066e0747291df44fa5c2bf93bee3a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large stone.png using Guid(7066e0747291df44fa5c2bf93bee3a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b1365ba8308e81592aea80f1e2ad89') in 0.132615 seconds
+  Import took 0.159145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/[1] HichDX/MyAssets/Image/GUI/skills/thumb-down.png
+  artifactKey: Guid(f5c23a422c115a246bdf96097b75a89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/MyAssets/Image/GUI/skills/thumb-down.png using Guid(f5c23a422c115a246bdf96097b75a89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b500a5b3ede1a741571a3e8c3554e1') in 0.099583 seconds
+  Import took 0.122582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png
+  artifactKey: Guid(ab6db91373811284caeba2e9472fa9c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png using Guid(ab6db91373811284caeba2e9472fa9c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d9f8bdee4ef0c2f10d857307ffa3aa') in 0.079162 seconds
+  Import took 0.113592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start.png
+  artifactKey: Guid(ca45d178d188e034aa96a68aceeef41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/TextBTN_New-Start.png using Guid(ca45d178d188e034aa96a68aceeef41b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f6ca245b5ca089d5d5d22de5bf9e26') in 0.027464 seconds
+  Import took 0.042597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium  parchment.png
+  artifactKey: Guid(cf1462bc694c3c249831ad8ac5293aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium  parchment.png using Guid(cf1462bc694c3c249831ad8ac5293aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33409460680236746258fe2ed3a1b4b9') in 0.078908 seconds
+  Import took 0.105397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small  parchment.png
+  artifactKey: Guid(a454050719005b444b59a84eaafba779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Small  parchment.png using Guid(a454050719005b444b59a84eaafba779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de15cfb9ba0087be4dfd010217a1b944') in 0.136604 seconds
+  Import took 0.146702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png
+  artifactKey: Guid(c615706690ca87043ad593475e6db7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png using Guid(c615706690ca87043ad593475e6db7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80adfb594d86b0be0090a8a46a7dd1b8') in 0.088081 seconds
+  Import took 0.112227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large  parchment.png
+  artifactKey: Guid(43a7d98bd4222b64e933596512dc09ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large  parchment.png using Guid(43a7d98bd4222b64e933596512dc09ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f9fe83a078bbdec245ef2ac408d90f2') in 0.118875 seconds
+  Import took 0.137254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png
+  artifactKey: Guid(08c1fa6351174a9439d97cfc9d3307cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png using Guid(08c1fa6351174a9439d97cfc9d3307cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc66d1ebd80df2454cd4b42de33f7513') in 0.108211 seconds
+  Import took 0.135694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png
+  artifactKey: Guid(f054197ef28924b4986cbd91de2ab054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/[1] Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png using Guid(f054197ef28924b4986cbd91de2ab054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4676bfb15ccaefe18e2dd7c0260a1b8') in 0.144290 seconds
+  Import took 0.172113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001110 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium stone.png
+  artifactKey: Guid(9a6560e5bacb40847bb1b879ede354fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Medium stone.png using Guid(9a6560e5bacb40847bb1b879ede354fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72fd6942688da0dbb6c8566f47b07aa') in 0.305995 seconds
+  Import took 0.336544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000696 seconds.
+  path: Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large Set.png
+  artifactKey: Guid(90a2dde0942123c4ebb9c4af580c5818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[2] AssetsStore/Fantasy Wooden GUI  Free/normal_ui_set A/UI board Large Set.png using Guid(90a2dde0942123c4ebb9c4af580c5818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5f74e021898542ee0d6fd2bc1e0dc14') in 0.117196 seconds
+  Import took 0.151748 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019335 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 5.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.150 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.7 MB.
+System memory in use after: 216.9 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5119.
+Total: 25.105900 ms (FindLiveObjects: 3.702300 ms CreateObjectMapping: 2.244400 ms MarkObjects: 18.356800 ms  DeleteObjects: 0.789900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 241.979012 seconds.
+  path: Assets/[1] HichDX/Scenes/CommonScenes/[MENU_SCENE].unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/Scenes/CommonScenes/[MENU_SCENE].unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759b28d18eac13b38a9d63f30fc462b7') in 0.028189 seconds
+  Import took 0.052732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 332.750727 seconds.
+  path: Assets/[1] HichDX/Scenes/LevelScenes/Level1.unity
+  artifactKey: Guid(e2b2613d46b1d5544a16bdd454b9a9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/Scenes/LevelScenes/Level1.unity using Guid(e2b2613d46b1d5544a16bdd454b9a9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01147c705ff9a91699458bbd51b3ad2f') in 0.026946 seconds
+  Import took 0.056527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000818 seconds.
+  path: Assets/[1] HichDX/Scenes/LevelScenes/Level1.unity
+  artifactKey: Guid(e2b2613d46b1d5544a16bdd454b9a9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/Scenes/LevelScenes/Level1.unity using Guid(e2b2613d46b1d5544a16bdd454b9a9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01147c705ff9a91699458bbd51b3ad2f') in 0.009732 seconds
+  Import took 0.036452 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.031580 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.544 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.7 MB.
+System memory in use after: 216.9 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5122.
+Total: 6.008500 ms (FindLiveObjects: 1.047300 ms CreateObjectMapping: 0.596400 ms MarkObjects: 4.039900 ms  DeleteObjects: 0.323300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016134 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.693 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.7 MB.
+System memory in use after: 216.9 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5125.
+Total: 8.298600 ms (FindLiveObjects: 1.387600 ms CreateObjectMapping: 0.624400 ms MarkObjects: 5.829700 ms  DeleteObjects: 0.453800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011079 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.627 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 11.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.7 MB.
+System memory in use after: 216.9 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5128.
+Total: 63.284600 ms (FindLiveObjects: 1.819600 ms CreateObjectMapping: 3.758100 ms MarkObjects: 55.112500 ms  DeleteObjects: 2.539700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.036394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.362 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.7 MB.
+System memory in use after: 216.9 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5131.
+Total: 9.759100 ms (FindLiveObjects: 0.782000 ms CreateObjectMapping: 0.507300 ms MarkObjects: 8.178400 ms  DeleteObjects: 0.289300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.032923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.074 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4282 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.7 MB.
+System memory in use after: 216.9 MB.
+
+Unloading 184 unused Assets to reduce memory usage. Loaded Objects now: 5134.
+Total: 17.451000 ms (FindLiveObjects: 7.166900 ms CreateObjectMapping: 1.990600 ms MarkObjects: 7.888800 ms  DeleteObjects: 0.365100 ms)
+

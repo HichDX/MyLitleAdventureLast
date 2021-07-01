@@ -1,0 +1,324 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1052; Version 2009; 64bit' Language: 'ru' Physical Memory: 8077 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+G:\Unity\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+F:/Users/Nikita/Desktop/game/projects/MyLitleAdventure
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+65387
+Successfully changed project path to: F:/Users/Nikita/Desktop/game/projects/MyLitleAdventure
+F:/Users/Nikita/Desktop/game/projects/MyLitleAdventure
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 214.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path G:/Unity/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Users/Nikita/Desktop/game/projects/MyLitleAdventure/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   
+    VRAM:     984 MB
+    Driver:   27.21.14.6627
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'G:/Unity/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'G:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'G:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56644
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/Unity/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008234 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 247.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.196 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 249.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.017 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 7.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4542 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.9 MB.
+System memory in use after: 231.1 MB.
+
+Unloading 199 unused Assets to reduce memory usage. Loaded Objects now: 5007.
+Total: 5.610600 ms (FindLiveObjects: 0.681200 ms CreateObjectMapping: 0.540700 ms MarkObjects: 4.053900 ms  DeleteObjects: 0.333100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_04.FBX
+  artifactKey: Guid(1a91fefe32e1b3442a68f5dc4467843b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_04.FBX using Guid(1a91fefe32e1b3442a68f5dc4467843b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3b6d359c56411f3e72c55952813d23') in 0.821387 seconds
+  Import took 0.867493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_e.FBX
+  artifactKey: Guid(0550f74a08933de42857fe15111782ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_e.FBX using Guid(0550f74a08933de42857fe15111782ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c85bf1013597ecc55f98129e24b559d') in 0.249590 seconds
+  Import took 0.277050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_43.FBX
+  artifactKey: Guid(5b50e10efc43ce140a0fbf66808b8b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_43.FBX using Guid(5b50e10efc43ce140a0fbf66808b8b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61204fc5720102821cdc8fd70644ae63') in 1.687048 seconds
+  Import took 1.738560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_44.FBX
+  artifactKey: Guid(4f43b6a44eb33d94c96ca8bd294d917a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_44.FBX using Guid(4f43b6a44eb33d94c96ca8bd294d917a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42bf6302f13bd3d30c0bc97231372812') in 0.096160 seconds
+  Import took 0.144230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/[1] HichDX/ShaderGraph/Slash/Gradient01.png
+  artifactKey: Guid(5a9e7341e5476944c896167344f552a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/ShaderGraph/Slash/Gradient01.png using Guid(5a9e7341e5476944c896167344f552a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3d9b4ce8bdc6fd32b257c0e58f879d') in 0.094111 seconds
+  Import took 0.137322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_02.FBX
+  artifactKey: Guid(9c08cd06ebe043149808bf61825a0f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_02.FBX using Guid(9c08cd06ebe043149808bf61825a0f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9311ac3580ab9d8ed9c7a3e4141d5ae') in 0.093844 seconds
+  Import took 0.136401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_d.FBX
+  artifactKey: Guid(c111e49cd13eacf46ab666393220e890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_d.FBX using Guid(c111e49cd13eacf46ab666393220e890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7b1eb1474f2f9c55ddd07d0d5c9482') in 0.316557 seconds
+  Import took 0.359602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_c.FBX
+  artifactKey: Guid(11c7098f2a19a4f4b83e66024cb30219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_c.FBX using Guid(11c7098f2a19a4f4b83e66024cb30219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb2de9f58d150f576551bb4ec2f2d3dc') in 0.133418 seconds
+  Import took 0.166884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_05.FBX
+  artifactKey: Guid(a422a06c258cb454281dc9f44d02fa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_05.FBX using Guid(a422a06c258cb454281dc9f44d02fa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e674d0a73a867f471caad850f31a0315') in 0.083334 seconds
+  Import took 0.104690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/[1] HichDX/ShaderGraph/Slash/SwordSlash.shadergraph
+  artifactKey: Guid(b5b360d4949820449afdb2a9168db089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[1] HichDX/ShaderGraph/Slash/SwordSlash.shadergraph using Guid(b5b360d4949820449afdb2a9168db089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c9cd7236980390325cef3ffdccd323') in 0.029269 seconds
+  Import took 0.066031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_j.FBX
+  artifactKey: Guid(9d6a878f1cecdd946afc3f03565e423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_j.FBX using Guid(9d6a878f1cecdd946afc3f03565e423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e1d47ef9b751cbf4c688690507cbc9') in 0.081730 seconds
+  Import took 0.107641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_03.FBX
+  artifactKey: Guid(d7834a2d3936cd64792a3bdb565e2b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_03.FBX using Guid(d7834a2d3936cd64792a3bdb565e2b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '574025d3acc3cdc467e487d688548dfe') in 0.112933 seconds
+  Import took 0.159704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_i.FBX
+  artifactKey: Guid(cbaeda1740be6ff459002fe432589f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_i.FBX using Guid(cbaeda1740be6ff459002fe432589f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd478ce4f98124199b629d88f70a5a2e8') in 0.068368 seconds
+  Import took 0.445497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_e.FBX
+  artifactKey: Guid(0e5aab65d9a75e646bf8d70c00781fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_e.FBX using Guid(0e5aab65d9a75e646bf8d70c00781fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec518005f4be2b09cb10bdb49c163578') in 0.107463 seconds
+  Import took 0.128779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_g.FBX
+  artifactKey: Guid(c4d0f75eacac57d4bb44f4cfee5a32f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_g.FBX using Guid(c4d0f75eacac57d4bb44f4cfee5a32f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc23f8467a593f7034e38f56c70546e5') in 0.092847 seconds
+  Import took 0.121953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Unique_Buildings/crusader_headquarter.FBX
+  artifactKey: Guid(a742f54a31396744f823b786554411b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Unique_Buildings/crusader_headquarter.FBX using Guid(a742f54a31396744f823b786554411b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999a3a036548f2e15a820d3aa1d18156') in 0.268796 seconds
+  Import took 0.295684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_c.FBX
+  artifactKey: Guid(ad05177fc15590949b56c9841a6f3cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_c.FBX using Guid(ad05177fc15590949b56c9841a6f3cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ae05bd3275d77e39ba218e1a922aa9') in 0.099666 seconds
+  Import took 0.134611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_d.FBX
+  artifactKey: Guid(3cb8651402fbc084288738641c37d0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_d.FBX using Guid(3cb8651402fbc084288738641c37d0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '777385b046a4c9cdbc32ca828052eab1') in 0.094324 seconds
+  Import took 0.119238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/door_canopy_1.FBX
+  artifactKey: Guid(27486d93a4d967246bd1022ea15ad7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/door_canopy_1.FBX using Guid(27486d93a4d967246bd1022ea15ad7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8b2288ecb3488e566830440e7162ab') in 0.079530 seconds
+  Import took 0.116629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_big_a.FBX
+  artifactKey: Guid(ed2e698cd87bb1d47944a570fa7962d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_big_a.FBX using Guid(ed2e698cd87bb1d47944a570fa7962d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2283df85dd5e9dd8beb9a931ba2bed') in 0.134275 seconds
+  Import took 0.165907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_45.FBX
+  artifactKey: Guid(9351e9dfd866b964ea351d899abc3368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_45.FBX using Guid(9351e9dfd866b964ea351d899abc3368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f9e869401257bbbed8e56d7ec6e6a0') in 0.136904 seconds
+  Import took 0.182270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_42.FBX
+  artifactKey: Guid(8c250eaae67b9c54191b2027be780ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_42.FBX using Guid(8c250eaae67b9c54191b2027be780ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c7e3ac40699a1609d91d9d0070d0fae') in 0.084210 seconds
+  Import took 0.127842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_41_c.FBX
+  artifactKey: Guid(e92ab855beb51944eac046b23a03a9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_41_c.FBX using Guid(e92ab855beb51944eac046b23a03a9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd393fa7dc7f9021f4b4027ae35a6e38b') in 0.140783 seconds
+  Import took 0.168170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_06.FBX
+  artifactKey: Guid(afd1e5e9f2fc2aa408f2cd041317462b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Terrain/cliff_06.FBX using Guid(afd1e5e9f2fc2aa408f2cd041317462b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd6591675c7d772170d4278aac35d39') in 0.077252 seconds
+  Import took 0.113652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_b.FBX
+  artifactKey: Guid(cf0371b0eb4cdaf4fbdd9774de46c54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_b.FBX using Guid(cf0371b0eb4cdaf4fbdd9774de46c54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4fa617f8c5cff382d1d4794c3999fd') in 0.127286 seconds
+  Import took 0.155400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_46.FBX
+  artifactKey: Guid(9ea2fe99bfff5a942999488e9cff581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_46.FBX using Guid(9ea2fe99bfff5a942999488e9cff581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b514a3eb9a3f5ffd3b9075864e66eb') in 0.169265 seconds
+  Import took 0.196422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_f.FBX
+  artifactKey: Guid(3fa8cd6c7ff080b4eb5dd7ee8a9c22dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_f.FBX using Guid(3fa8cd6c7ff080b4eb5dd7ee8a9c22dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1be1ebee2cb96ab81de72fa61d8bfd8') in 0.091812 seconds
+  Import took 0.139024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_h.FBX
+  artifactKey: Guid(5059854a7bd010f4d85294df4b83f524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Trees/dead_tree_h.FBX using Guid(5059854a7bd010f4d85294df4b83f524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a1e60dfb56ad683f736f399e0e97c91') in 0.085171 seconds
+  Import took 0.226180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_f.FBX
+  artifactKey: Guid(55fc939a272f96f4ea545e125ec1d5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_f.FBX using Guid(55fc939a272f96f4ea545e125ec1d5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a47535adf5f2d633482119adee8c72c') in 0.091133 seconds
+  Import took 0.105980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_b.FBX
+  artifactKey: Guid(072a6a13f1af64c4f88b7ff738f65941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_b.FBX using Guid(072a6a13f1af64c4f88b7ff738f65941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e8e6c89c1a98860c64852cc262259d') in 0.067412 seconds
+  Import took 0.113524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_a.FBX
+  artifactKey: Guid(38660e6ae3a4a754daf21cd587cc7c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polylised - Medieval Desert City/Models/Civilian_Buildings/civilian_house_ruin_a.FBX using Guid(38660e6ae3a4a754daf21cd587cc7c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bdf74a48a82ed97e6ad9064efba3e3f') in 0.061138 seconds
+  Import took 0.094555 seconds .
+

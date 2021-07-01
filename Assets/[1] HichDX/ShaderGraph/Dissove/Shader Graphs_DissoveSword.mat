@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_DissoveSword
+  m_Shader: {fileID: -6465566751694194690, guid: 5d423ca97582b88438b15dea6002576b,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_27b42ad38a084619a82cf67d3f550c0b:
+        m_Texture: {fileID: 2800000, guid: e5afad012fdd8df47b41db075dd03686, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_b68720d5bd42441da9ae4c09555bb0d1:
+        m_Texture: {fileID: 2800000, guid: ee2125694b0db2043b26a65dac23e45f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - CutoffHeight: 2
+    - Vector1_2b52e7fe3046433a80fd8c743610f7b3: 50
+    - Vector1_67fa4e7ef1f2461b83e7d90037a5eb84: 0.05
+    - Vector1_6b5995947965416fa20a29efd02b8350: 1
+    - Vector1_bed49b6ef46e490383a0b8493d9fdd59: 1
+    - _SwordDissove: 2.000605
+    m_Colors:
+    - Color_b1ba485cb93f458f86780d705cd9f994: {r: 4, g: 0.6588235, b: 0, a: 1}
+  m_BuildTextureStacks: []

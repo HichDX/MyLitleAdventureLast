@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Dissove Wall
+  m_Shader: {fileID: -6465566751694194690, guid: 00566bb7e3b0011468db3fdbef8544f7,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_8cd0aec2e352411aa404a4571643b7f8_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a9e599e09093dbe43b0f6f0b1abfd5af, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - CutoffHeight: 1
+    - Vector1_2b52e7fe3046433a80fd8c743610f7b3: 50
+    - Vector1_67fa4e7ef1f2461b83e7d90037a5eb84: 0.05
+    - Vector1_bed49b6ef46e490383a0b8493d9fdd59: 1
+    - _CutoffHeightWall: 1.0091207
+    m_Colors:
+    - Color_b1ba485cb93f458f86780d705cd9f994: {r: 4, g: 0.6588235, b: 0, a: 1}
+    - Color_d51b196d392245db98643a34056c9797: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
